@@ -1,0 +1,7 @@
+/prefs.plist
+/coverage.out
+/testenv
+*.alfredworkflow
+*.log
+/workflow*
+/dist/
